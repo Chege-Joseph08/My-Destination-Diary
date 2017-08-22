@@ -1,0 +1,11 @@
+#show-destination {
+  display: none
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+.jumbotron {
+  background-image: url("../img/img.jpg");
+}
